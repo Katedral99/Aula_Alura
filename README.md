@@ -21,7 +21,9 @@
 ☑Estimular o Gemini a gerar conteúdo original e inovador.
 
 
-⚙ **Elementos chave de uma boa estrutura de prompt** ⚙
+
+
+## ⚙ Elementos chave de uma boa estrutura de prompt ⚙
 
 
 ➡Clareza e concisão: 
@@ -39,7 +41,7 @@ Informações relevantes sobre o tema, público-alvo e objetivo.
 ➡Use code with caution.
 
 
-**Resultados de uma estrutura de prompt eficaz:**
+## Resultados de uma estrutura de prompt eficaz
 
 ☑Respostas mais precisas e relevantes.
 
@@ -48,11 +50,13 @@ Informações relevantes sobre o tema, público-alvo e objetivo.
 ☑Melhor experiência para o usuário final
 
 
-**Informações importantes**'
 
-Este projeto demonstra a importância da estrutura de prompt ao interagir com o Gemini. 
 
-Explore os exemplos fornecidos e experimente com diferentes abordagens para dominar a arte da comunicação com IA.
+## Informações importantes
+
+**Este projeto demonstra a importância da estrutura de prompt ao interagir com o Gemini.** 
+
+**Explore os exemplos fornecidos e experimente com diferentes abordagens para dominar a arte da comunicação com IA.**
 
 
 
