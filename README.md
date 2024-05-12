@@ -1,4 +1,4 @@
-![Katedral chat]([URL da imagemhttps://www.canva.com/design/DAF95gp7evk/0HEwzgdnqhOh1qr1Yh1tRw/view?utm_content=DAF95gp7evk&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAF95gp7evk/0HEwzgdnqhOh1qr1Yh1tRw/view?utm_content=DAF95gp7evk&utm_campaign=designshare&utm_medium=link&utm_source=editor))
+![Katedral chat](C:\Users\willi\Downloads)
 <font size="+2" color="BLACK">Dominando a Arte da Interação com a IA</font>
  
 <font size="+1" color="BLACK">Estrutura de Prompt no Gemini</font>
