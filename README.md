@@ -1,4 +1,4 @@
-![Katedral chat](C:\Users\willi\Downloads)
+<img src="[URL_da_Imagem" alt="imagem](https://www.canva.com/design/DAF95gp7evk/0HEwzgdnqhOh1qr1Yh1tRw/view?utm_content=DAF95gp7evk&utm_campaign=designshare&utm_medium=link&utm_source=editor)">
 <font size="+2" color="BLACK">Dominando a Arte da Interação com a IA</font>
  
 <font size="+1" color="BLACK">Estrutura de Prompt no Gemini</font>
@@ -53,4 +53,4 @@ Explore os exemplos fornecidos e experimente com diferentes abordagens para domi
 ## Link
 https://github.com/Katedral99/Aula_Alura/blob/main/Aula_4_.ipynb
 
-![Alura + Google]([[URL da imagemhttps://www.canva.com/design/DAF95gp7evk/0HEwzgdnqhOh1qr1Yh1tRw/view?utm_content=DAF95gp7evk&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAGE9_sKUBg/FXH4vaSWRqNR3It7vD1BoA/view?utm_content=DAGE9_sKUBg&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAGE9_sKUBg/daKGISo7rJtE8zpZiubaIQ/edit?utm_content=DAGE9_sKUBg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
+<img src="[URL_da_Imagem](https://www.canva.com/design/DAGE9_sKUBg/FXH4vaSWRqNR3It7vD1BoA/view?utm_content=DAGE9_sKUBg&utm_campaign=designshare&utm_medium=link&utm_source=editor)" alt="Alura + Google">
