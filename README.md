@@ -1,8 +1,8 @@
 <img src="[URL_da_Imagem" alt="imagem](https://www.canva.com/design/DAF95gp7evk/0HEwzgdnqhOh1qr1Yh1tRw/view?utm_content=DAF95gp7evk&utm_campaign=designshare&utm_medium=link&utm_source=editor)">
 
-**Dominando a Arte da Interação com a IA**
+## Dominando a Arte da Interação com a IA
 
-**Estrutura de Prompt no Gemini**
+## Estrutura de Prompt no Gemini
 
 🔗**Este projeto demonstra a importância de uma estrutura de prompt eficaz ao interagir com o poderoso modelo de linguagem Gemini.**🔗
 
@@ -56,7 +56,7 @@ Explore os exemplos fornecidos e experimente com diferentes abordagens para domi
 
 
 
-## Link'\n'
+**Link**
 https://github.com/Katedral99/Aula_Alura/blob/main/Aula_4_.ipynb
 
 
